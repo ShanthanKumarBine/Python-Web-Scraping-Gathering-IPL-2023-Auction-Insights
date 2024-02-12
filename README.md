@@ -1,6 +1,3 @@
-# Python-Web-Scraping-Gathering-IPL-2023-Auction-Insights
-Using Beautifulsoup and Selenium to scrape data from IPL website.
-
 # Python Web Scraping: Gathering IPL 2023 Auction Insights
 
 This project involves web scraping to gather data from two different websites. The first part of the project involves scraping data about countries from [ScrapeThisSite](https://www.scrapethissite.com/pages/simple/), while the second part involves scraping IPL 2023 auction data from [IPLT20](https://www.iplt20.com/auction/2023).
